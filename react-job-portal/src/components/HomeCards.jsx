@@ -18,7 +18,7 @@ const HomeCards = () => {
             <p className='mt-2 mb-4'>
               List your job to find the perfect developer for the role
             </p>
-            <Link className='inline-block bg-indigo-500 text-white rounded-lg px-4 py-2 hover:bg-indigo-600' to = "/add-jobs"> Add Jobs</Link>
+            <Link className='inline-block bg-indigo-500 text-white rounded-lg px-4 py-2 hover:bg-indigo-600' to = "/add-job"> Add Jobs</Link>
           </Card>
         </div>
       </div>
